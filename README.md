@@ -8,16 +8,11 @@
 
 - 🔭 I’m currently working on [Autovip Webapp](https://github.com/carminelatorraca/autovip-web)  
   
-
 - 🌱 I’m currently learning Laravel  
   
-
-<br/>  
-
-
+  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Skills  
@@ -37,7 +32,6 @@
 </td><td valign="top" width="33%">
 
 
-
 ### Other skills  
 <div align="center">  
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
@@ -46,7 +40,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### DevOps  
@@ -78,31 +71,7 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=carminelatorraca&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
